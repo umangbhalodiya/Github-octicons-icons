@@ -1,2 +1,2 @@
 # Github-octicons-icons
-Github Pros octicon icons 
+Github Pro's octicon icons 
